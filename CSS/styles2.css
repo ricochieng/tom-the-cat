@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(255, 255, 128);
+  background-image: url("tom.jpg");
+}
+
+
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+    font-family: sans-serif;
+    text-align: center;
+}
+ul {
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 40px;
+}
+ol {
+    font-family: sans-serif;
+    text-align: center;
+}
